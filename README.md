@@ -1,4 +1,4 @@
-# Defense against Adversarial Attacks on Audio DeepFake Detection
+# Defense against Adversarial Attacks on Audio DeepFake Detection Baseline Code
 
 The following repository contains code for our paper called "Defense against Adversarial Attacks on Audio DeepFake Detection".
 
